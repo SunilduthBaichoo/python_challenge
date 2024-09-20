@@ -1,4 +1,3 @@
-# This is the main script to run the PyBank analysis
 # -*- coding: UTF-8 -*-
 """PyBank Homework Starter File."""
 
@@ -88,7 +87,7 @@ with open(file_to_output, "w") as txt_file:
      txt_file.write("\n")
      txt_file.write('--------------------------------- \n')
      txt_file.write("\n")
-     txt_file.write("Total Months: " + str(total_months)+ "\n")
+     txt_file.write("Total Month: " + str(total_months)+ "\n")
      txt_file.write("\n")
      txt_file.write("Total: $"+ str(round(total_net))+ "\n")
      txt_file.write("\n")
