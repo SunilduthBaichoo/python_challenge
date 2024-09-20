@@ -95,5 +95,5 @@ with open(file_to_output, "w") as txt_file:
      txt_file.write("Average Change: $" + str(round(Ave_net_change,2))+"\n")
      txt_file.write("\n")
      txt_file.write("Greatest Increase in Profits : " + str(month_greatest_increase) +" ($"+ str(round(greatest_inc_in_profit))+") \n")
-     txt_file.write("")
+     txt_file.write("\n")
      txt_file.write("Greatest decrease in Profits : " + str(month_greatest_decrease) + " ($" + str(round(greatest_dec_in_profit))+") \n")
