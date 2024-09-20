@@ -1,6 +1,6 @@
 # Python Challenge Repository
 
-Welcome to my **Python Challenge** repository! This project consists of two Python scripting challenges: **PyBank** and **PyPoll**, which tested your my ability to analyze data programmatically using Python. These challenges gave me hands-on experience with data manipulation, file I/O, and basic analytics in Python.
+Welcome to my **Python Challenge** repository! This project consists of two Python scripting challenges: **PyBank** and **PyPoll**, which tested my ability to analyze data programmatically using Python. These challenges gave me hands-on experience with data manipulation, file I/O, and basic analytics in Python.
 
 ## Repository Structure
 
