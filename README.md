@@ -73,7 +73,7 @@ Greatest Decrease in Profits: Feb-14 ($-1825558)
 ```
 
 ### PyBank program run Terminal output
-![alt text](PyBank_Terminal_output.png)
+![alt text](PyBank_Terminal_Output.png)
 
 
 **PyPoll Example:**
