@@ -72,7 +72,7 @@ Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 ```
 
-### (PyBank program run Terminal output)[https://github.com/SunilduthBaichoo/python_challenge/blob/main/PyBank_Terminal_Output.png)
+### (PyBank program run Terminal output)(https://github.com/SunilduthBaichoo/python_challenge/blob/main/PyBank_Terminal_Output.png)
 
 
 **PyPoll Example:**
