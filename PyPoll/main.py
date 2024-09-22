@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-"""PyPoll Homework Starter File."""
+"""PyPoll final File."""
 
 # Import necessary modules
 import csv
@@ -73,8 +73,11 @@ with open(file_to_output, "w") as txt_file:
     txt_file.write("-------------------------\n")
     txt_file.write("\n ")
 
+    # Initialise valriables to store winning candidate and winning candidate vote
+
     winning_candidate = list_candidate_name[0]
     winning_candidate_vote = dict_candidate_votes[winning_candidate]
+    
     # Loop through the candidates to determine vote percentages and identify the winner
     for candidate in list_candidate_name :
 

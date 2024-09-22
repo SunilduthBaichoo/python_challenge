@@ -72,6 +72,10 @@ Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 ```
 
+### PyBank program run Terminal output
+![alt text](PyBank_Terminal_output.png)
+
+
 **PyPoll Example:**
 
 ```
@@ -86,5 +90,5 @@ Raymon Anthony Doane: 3.139% (11606)
 Winner: Diana DeGette
 -------------------------
 ```
-
-
+### PyPoll program run Terminal output
+![alt text](PyPoll_Terminal_Output.png)

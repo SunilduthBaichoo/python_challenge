@@ -1,13 +1,13 @@
 # This is the main script to run the PyBank analysis
-# -*- coding: UTF-8 -*-
-"""PyBank Homework Starter File."""
+# 
+# # -*- coding: UTF-8 -*-"""PyBank final File."""
 
 # Dependencies
 import csv
 import os
 
 # For Date manipulations
-import datetime
+# import datetime
 
 # Files to load and output (update with correct file paths)
 file_to_load = os.path.join("Resources", "budget_data.csv")  # Input file path
@@ -20,8 +20,7 @@ total_net = 0
 greatest_inc_in_profit = 0.0
 greatest_dec_in_profit = 0.0
 Ave_net_change = 0.0
-#month_greatest_increase = datetime.date.today()
-#month_greatest_decrease = datetime.date.today()
+
 
 # Open and read the csv
 with open(file_to_load) as financial_data:
@@ -37,6 +36,7 @@ with open(file_to_load) as financial_data:
     total_months = 1
     total_net = float(row1[1])
     new_profit_loss = float(row1[1])
+    # Initialise the month with greatest increase and greatest decrease as the first row value
     month_greatest_increase = row1[0]
     month_greatest_decrease = row1[0]
     total_change = 0
@@ -67,7 +67,7 @@ Ave_net_change = total_change/(total_months-1)
 # Generate the output summary
 
 
-# Print the output
+# Print the output to Terminal
 print(" Financial Analysis")
 print("")
 print('---------------------------------')
