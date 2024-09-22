@@ -23,6 +23,10 @@ python-challenge/
 │   │   └── election_results.txt  # Output file with election results
 │   └── main.py  # Script for analyzing election data
 │
+|── PyBank_Terminal_Output.png
+|
+|── PyPoll_Terminal_Output.png
+|
 └── README.md  # This file
 ```
 
@@ -40,7 +44,7 @@ The Python script has computed the following:
 4. The greatest increase in profits (date and amount).
 5. The greatest decrease in profits (date and amount).
 
-The final results are displayed in the terminal and exported to a text file in the `analysis` folder.
+The final results are displayed in the terminal (shown in Output section) and exported to a text file in the `analysis` folder.
 
 ### PyPoll
 In the **PyPoll** challenge, we are given a dataset of election results in `election_data.csv` that includes:
@@ -55,7 +59,7 @@ The Python script analyzed this data to provide the following:
 4. The total number of votes each candidate won.
 5. The winner of the election based on popular vote.
 
-As with PyBank, the results are printed to the terminal and saved to a text file in the `analysis` folder.
+As with PyBank, the results are printed to the terminal (shown in Output section) and saved to a text file in the `analysis` folder.
 
 
 ### Outputs
